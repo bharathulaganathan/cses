@@ -1,4 +1,4 @@
-### TASK_NUMBER
+### **Task:** TASK_NUMBER
 
 # [PROBLEM_TITLE](PROBLEM_URL)
 
