@@ -22,9 +22,11 @@ CONSTRAINTS_STATEMENT
 ### Example
 
 Input:
-
+```
 INPUT_EXAMPLE
+```
 
 Output:
-
+```
 OUTPUT_EXAMPLE
+```
